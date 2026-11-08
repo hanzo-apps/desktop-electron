@@ -1,13 +1,22 @@
 # Electron
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fdesktop-electron&template=desktop-electron"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=desktop-electron"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/desktop-electron"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/desktop-electron/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 Electron 43 + Forge + Vite + React baseline — contextIsolated IPC, native dialogs, app metrics, frameless chrome.
 
 A **Hanzo desktop template**: one codebase, three installers (macOS, Windows,
 Linux) and a web build. Fork it, `npm i`, ship.
 
 - Live web preview: <https://desktop-electron.hanzo.app>
-- Installers: <https://github.com/hanzo-templates/desktop-electron/releases/latest>
-- Source: <https://github.com/hanzo-templates/desktop-electron>
+- Installers: <https://github.com/hanzo-apps/desktop-electron/releases/latest>
+- Source: <https://github.com/hanzo-apps/desktop-electron>
 
 ![desktop-electron](./public/preview.png)
 
